@@ -22,7 +22,7 @@
 
 /*__write_selector_here__*/
 
-div img {
+#div img {
   position: absolute;
   z-index: 5;
   top: 291px;
