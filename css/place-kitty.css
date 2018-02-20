@@ -2,7 +2,6 @@
 
 /*__write_selector_here__*/
 #kitty-1 {
-  content: url(images/kitty-1.png)
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -11,7 +10,8 @@
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ {
+/*__write_selector_here__*/
+#kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
